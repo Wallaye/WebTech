@@ -1,0 +1,3 @@
+Main-Class: laba1.task9.Program
+Class-Path: bin/
+
