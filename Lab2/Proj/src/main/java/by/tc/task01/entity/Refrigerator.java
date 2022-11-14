@@ -1,7 +1,6 @@
 package by.tc.task01.entity;
 
 import by.tc.task01.entity.criteria.SearchCriteria;
-import jdk.incubator.vector.DoubleVector;
 
 public class Refrigerator extends Appliance{
 	public int powerConsumption;
